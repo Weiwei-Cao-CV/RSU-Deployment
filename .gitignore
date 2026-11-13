@@ -1,0 +1,7 @@
+regular/*.rou.xml
+regular/*.add.xml
+regular/*.edge.xml
+regular/*.fcd.xml
+results/
+__pycache__/
+*.pyc

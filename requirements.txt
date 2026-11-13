@@ -1,0 +1,6 @@
+eclipse-sumo>=1.20
+sumolib
+numpy
+scipy
+pandas
+matplotlib
